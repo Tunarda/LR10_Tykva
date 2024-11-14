@@ -1,0 +1,2 @@
+C:\Users\Alex\Desktop\Study\Практикум з інженерії ПЗ\ЛР_5\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.AssemblyReference.cache
+C:\Users\38097\Desktop\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.AssemblyReference.cache
